@@ -1,4 +1,5 @@
 # BTU
-Beneaththeundergound.com mods
+http://beneaththeundergound.com mods
 
-Various mods for me to keeop track of.
+Various mods for me to keep track of.
+
